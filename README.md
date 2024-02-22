@@ -8,7 +8,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/dellstorecpm" target="blank"><img align="center" src="https://media.tenor.com/aCp70-I4zIkAAAAC/instagram-logo.gif " alt="dellstorecpm" height="30" width="40" /></a>
-<a href="https://wa.me/+6285953890866" target="blank"><img align="center" src="https://media.tenor.com/rZPzTbfYtC4AAAAM/whats-app.gif" alt="My Whatsapp" height="30" width="40" /></a>
+<a href="https://wa.me/+6281990236975" target="blank"><img align="center" src="https://media.tenor.com/rZPzTbfYtC4AAAAM/whats-app.gif" alt="My Whatsapp" height="30" width="40" /></a>
 <a href="https://www.tiktok.com/@dellstorecpm.id/" target="blank"><img align="center" src="https://i.pinimg.com/originals/77/97/19/7797190f0f3efd9d5b0b96963d97ed5a.gif" alt="My tiktok" height="30" width="40" /></a>
 <a href="https://facebook.com/adelaparamayoga" target="blank"><img align="center" src="https://static.dezeen.com/uploads/2019/11/facebook-redesign_dezeen-sq.gif" alt="My tiktok" height="80" width="80" /></a>
 </p>
